@@ -1,0 +1,5 @@
+C:/Users/19024/OneDrive - Dalhousie University/Desktop/Windbound/Testing_STM32H563ZIT6U/Testing_STM32H563ZIT6/build/Debug/CMakeFiles/Testing_STM32H563ZIT6.dir
+C:/Users/19024/OneDrive - Dalhousie University/Desktop/Windbound/Testing_STM32H563ZIT6U/Testing_STM32H563ZIT6/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/19024/OneDrive - Dalhousie University/Desktop/Windbound/Testing_STM32H563ZIT6U/Testing_STM32H563ZIT6/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/19024/OneDrive - Dalhousie University/Desktop/Windbound/Testing_STM32H563ZIT6U/Testing_STM32H563ZIT6/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/19024/OneDrive - Dalhousie University/Desktop/Windbound/Testing_STM32H563ZIT6U/Testing_STM32H563ZIT6/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

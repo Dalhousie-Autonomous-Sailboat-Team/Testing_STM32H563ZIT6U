@@ -23,6 +23,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include "superloop.h"
 
 /* USER CODE END Includes */
 
@@ -78,6 +79,7 @@ int main(void)
 
   /* USER CODE BEGIN Init */
 
+
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -114,11 +116,15 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
+
+  superloop_init();
   while (1)
   {
 
-    /* USER CODE END WHILE */
 
+superloop(); 
+    /* USER CODE END WHILE */
+   
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
@@ -195,6 +201,8 @@ void Error_Handler(void)
   __disable_irq();
   while (1)
   {
+
+    
   }
   /* USER CODE END Error_Handler_Debug */
 }
