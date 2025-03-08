@@ -26,6 +26,7 @@ target_sources(stm32cubemx INTERFACE
     ../../Core/Src/main.c
     ../../Core/Src/gpio.c
     ../../Core/Src/memorymap.c
+    ../../Core/Src/usart.c
     ../../Core/Src/stm32h5xx_it.c
     ../../Core/Src/stm32h5xx_hal_msp.c
     ../../Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c
@@ -41,10 +42,10 @@ target_sources(stm32cubemx INTERFACE
     ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_pwr_ex.c
     ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c
     ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c
+    ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c
+    ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c
     ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_usart.c
     ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_usart_ex.c
-    ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c
-    ../../Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c
     ../../Core/Src/system_stm32h5xx.c
     ../../Core/Src/sysmem.c
     ../../Core/Src/syscalls.c
