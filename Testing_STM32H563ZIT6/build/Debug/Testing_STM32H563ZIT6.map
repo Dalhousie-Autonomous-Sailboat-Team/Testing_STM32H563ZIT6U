@@ -36,16 +36,74 @@ C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.
                               C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (_fflush_r)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
                               C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (__aeabi_dmul)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (__aeabi_f2d)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (__aeabi_ddiv)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (__aeabi_d2iz)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (__aeabi_d2f)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
                               CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj (__aeabi_uldivmod)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixdfdi.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (__aeabi_d2lz)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixunsdfdi.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixdfdi.o) (__aeabi_d2ulz)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
                               C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
                               C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixdfdi.o) (__aeabi_dcmplt)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixunsdfdi.o) (__aeabi_d2uiz)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
                               CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/sysmem.c.obj (__errno)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj (memcpy)
 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
                               CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj (strlen)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (copysign)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (asin)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_atan2.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (atan2)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (cos)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_fabs.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o) (fabs)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_sin.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (sin)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_nan.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o) (nan)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_round.o)
+                              CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj (round)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_cos.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o) (__kernel_cos)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_sin.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o) (__kernel_sin)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_asin.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o) (__ieee754_asin)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_atan2.o) (__ieee754_atan2)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o) (__ieee754_rem_pio2)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o) (atan)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_asin.o) (__ieee754_sqrt)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o) (__kernel_rem_pio2)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_scalbn.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o) (scalbn)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_floor.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o) (floor)
+C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_unorddf2.o)
+                              C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o) (__aeabi_dcmpun)
 
 Discarded input sections
 
@@ -325,6 +383,282 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
  .text.superloop
                 0x00000000        0xe CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .bss.most_recent_interface
+                0x00000000        0x4 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .data.inbound_handler_table
+                0x00000000      0x110 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_parse_buffer
+                0x00000000       0x3c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_parse
+                0x00000000      0x148 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_reset_parser
+                0x00000000       0x30 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_handle_payload
+                0x00000000       0x44 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_override_id_handler
+                0x00000000       0x36 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_find_inbound_handler_entry
+                0x00000000       0x28 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_find_handler_entry
+                0x00000000       0x4c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_buffer_crc
+                0x00000000       0x40 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_send
+                0x00000000      0x1de CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_request
+                0x00000000       0x7e CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_set_baudrate
+                0x00000000       0x7e CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_reset_orientation
+                0x00000000       0x8a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_set_configuration
+                0x00000000      0x128 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_mti_set_option_flags
+                0x00000000       0xa2 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_internal_handle_device_id
+                0x00000000       0x78 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_internal_handle_product_code
+                0x00000000       0x14 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_internal_handle_hardware_version
+                0x00000000       0x14 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_internal_handle_firmware_version
+                0x00000000       0x3a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_internal_handle_selftest_results
+                0x00000000       0x14 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_internal_handle_error
+                0x00000000       0x1a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .text.xsens_internal_handle_mdata2
+                0x00000000       0x24 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_info    0x00000000     0x107a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_abbrev  0x00000000      0x325 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_aranges
+                0x00000000       0xc0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_rnglists
+                0x00000000       0x90 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000      0x163 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000      0xac0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x6e CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x57 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x20 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x5d CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_line    0x00000000      0x8cd CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_str     0x00000000     0x8622 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .debug_frame   0x00000000      0x328 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .text.xsens_mdata2_process
+                0x00000000      0x1a0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .rodata.xid_decode_table
+                0x00000000       0x70 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .text.xsens_mdata2_decode_field
+                0x00000000      0x644 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_info    0x00000000      0x917 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_abbrev  0x00000000      0x1bb CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_rnglists
+                0x00000000       0x1b CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000      0x14c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000      0xac0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x6e CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x94 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x57 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x20 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x5d CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_line    0x00000000      0x61a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_str     0x00000000     0x7af1 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .debug_frame   0x00000000       0x60 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_swap_endian_u16
+                0x00000000       0x28 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_swap_endian_u32
+                0x00000000       0x3c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_swap_endian_u64
+                0x00000000       0x64 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_coalesce_16BE_16LE
+                0x00000000       0x2a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_coalesce_32BE_32LE
+                0x00000000       0x38 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_coalesce_32BE_F32LE
+                0x00000000       0x48 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_coalesce_48BE_48LE
+                0x00000000       0x50 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_quaternion_to_euler
+                0x00000000      0x1b0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_euler_to_quaternion
+                0x00000000      0x212 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_f32_to_fp1220
+                0x00000000       0x44 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_fp1220_to_f32
+                0x00000000       0x30 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_f64_to_fp1632
+                0x00000000       0x40 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .text.xsens_fp1632_to_f64
+                0x00000000       0x58 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_info    0x00000000      0x4d7 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_abbrev  0x00000000      0x15c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_aranges
+                0x00000000       0x80 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_rnglists
+                0x00000000       0x5d CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000      0x148 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000      0xac0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x74 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x2a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x3c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000      0x189 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x43 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x10 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x58 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000      0x1de CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000      0x369 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000      0x19b CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x16 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_macro   0x00000000       0x29 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_line    0x00000000      0x6f0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_str     0x00000000     0x779f CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .debug_frame   0x00000000      0x214 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
@@ -437,6 +771,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x52 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000       0xc7 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
  .debug_macro   0x00000000      0x154 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x35 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000       0x20 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
@@ -3913,13 +4249,67 @@ Discarded input sections
  .text          0x00000000       0x14 CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
  .data          0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
  .bss           0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
+ .text          0x00000000      0x254 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x00000000       0x30 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x00000000       0x26 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .text          0x00000000      0x378 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0xac C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x26 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0x50 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x26 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000       0x50 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000       0x24 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x26 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000       0xa0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00000000       0x24 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000       0x26 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_truncdfsf2.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000       0x30 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixdfdi.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixdfdi.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixdfdi.o)
+ .debug_frame   0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixdfdi.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixdfdi.o)
+ .text          0x00000000       0x3c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixunsdfdi.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixunsdfdi.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixunsdfdi.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixunsdfdi.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_fixunsdfdi.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
  .ARM.extab     0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000      0x110 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000       0xc4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x26 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x40 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x00000000       0x24 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000000       0x26 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
@@ -3936,10 +4326,47 @@ Discarded input sections
  .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
  .ARM.attributes
                 0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1a C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_info    0x00000000      0x121 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_abbrev  0x00000000       0xc1 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_loclists
+                0x00000000       0x8f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_aranges
+                0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_rnglists
+                0x00000000       0x13 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_line    0x00000000      0x207 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_str     0x00000000      0x237 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .comment       0x00000000       0x44 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
  .ARM.extab     0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
  .eh_frame      0x00000000       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .text.copysign
+                0x00000000       0x22 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .debug_info    0x00000000      0x173 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .debug_abbrev  0x00000000      0x10c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .debug_loclists
+                0x00000000       0x3c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .debug_aranges
+                0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .debug_rnglists
+                0x00000000       0x1f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .debug_line    0x00000000      0x193 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .debug_str     0x00000000      0x26a C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .comment       0x00000000       0x44 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .debug_frame   0x00000000       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libm_a-s_copysign.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtend.o
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtend.o
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtend.o
@@ -3950,6 +4377,157 @@ Discarded input sections
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o)
+ .rodata.asin.str1.1
+                0x00000000        0x1 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o)
+ .text.asin     0x00000000       0x68 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o)
+ .debug_frame   0x00000000       0x4c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_asin.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_atan2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_atan2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_atan2.o)
+ .text.atan2    0x00000000        0x4 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_atan2.o)
+ .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_atan2.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-w_atan2.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o)
+ .text.cos      0x00000000       0xa8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o)
+ .debug_frame   0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_cos.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_fabs.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_fabs.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_fabs.o)
+ .text.fabs     0x00000000       0x10 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_fabs.o)
+ .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_fabs.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_fabs.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_sin.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_sin.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_sin.o)
+ .text.sin      0x00000000       0xa8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_sin.o)
+ .debug_frame   0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_sin.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_sin.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_nan.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_nan.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_nan.o)
+ .text.nan      0x00000000       0x10 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_nan.o)
+ .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_nan.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_nan.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_round.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_round.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_round.o)
+ .text.round    0x00000000       0x8c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_round.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_round.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_round.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_cos.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_cos.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_cos.o)
+ .text.__kernel_cos
+                0x00000000      0x18c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_cos.o)
+ .debug_frame   0x00000000       0x3c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_cos.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_cos.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_sin.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_sin.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_sin.o)
+ .text.__kernel_sin
+                0x00000000      0x174 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_sin.o)
+ .debug_frame   0x00000000       0x40 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_sin.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_sin.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_asin.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_asin.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_asin.o)
+ .text.__ieee754_asin
+                0x00000000      0x408 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_asin.o)
+ .debug_frame   0x00000000       0x40 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_asin.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_asin.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+ .text.__ieee754_atan2
+                0x00000000      0x18c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+ .rodata.CSWTCH.9
+                0x00000000       0x18 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+ .rodata.CSWTCH.8
+                0x00000000       0x18 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+ .debug_frame   0x00000000       0x44 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_atan2.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .text.__ieee754_rem_pio2
+                0x00000000      0x3f8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .rodata.npio2_hw
+                0x00000000       0x80 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .rodata.two_over_pi
+                0x00000000      0x108 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .debug_frame   0x00000000       0x40 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_rem_pio2.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+ .text.atan     0x00000000      0x330 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+ .rodata.atanlo
+                0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+ .rodata.atanhi
+                0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+ .debug_frame   0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_atan.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .text.__ieee754_sqrt
+                0x00000000      0x1bc C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .data.tiny     0x00000000        0x8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .data.one      0x00000000        0x8 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .debug_frame   0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-e_sqrt.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .text.__kernel_rem_pio2
+                0x00000000      0x6b0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .rodata.PIo2   0x00000000       0x40 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .rodata.init_jk
+                0x00000000       0x10 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .debug_frame   0x00000000       0x54 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-k_rem_pio2.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .text.scalbn   0x00000000       0xfc C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_scalbn.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_floor.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_floor.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_floor.o)
+ .text.floor    0x00000000      0x100 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_floor.o)
+ .debug_frame   0x00000000       0x30 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_floor.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a(libm_a-s_floor.o)
+ .text          0x00000000       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000000       0x26 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_unorddf2.o)
 
 Memory Configuration
 
@@ -3968,6 +4546,9 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a
 END GROUP
 LOAD CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
+LOAD CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mti.c.obj
+LOAD CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_mdata2.c.obj
+LOAD CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/xsens_utility.c.obj
 LOAD CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
 LOAD CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
 LOAD CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/memorymap.c.obj
@@ -4730,7 +5311,7 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .debug_rnglists
                 0x00000823       0x19 CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
 
-.debug_macro    0x00000000    0x30b15
+.debug_macro    0x00000000    0x30ac0
  .debug_macro   0x00000000      0x27e CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
  .debug_macro   0x0000027e      0xac0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
  .debug_macro   0x00000d3e      0x1c4 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
@@ -4787,23 +5368,21 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .debug_macro   0x0002e43d      0x154 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
  .debug_macro   0x0002e591      0x2d0 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
  .debug_macro   0x0002e861       0x16 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
- .debug_macro   0x0002e877       0x35 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
- .debug_macro   0x0002e8ac       0x20 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
- .debug_macro   0x0002e8cc      0x284 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
- .debug_macro   0x0002eb50      0x284 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
- .debug_macro   0x0002edd4      0x284 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_macro   0x0002f058      0x27a CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_macro   0x0002f2d2      0x277 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
- .debug_macro   0x0002f549       0x1c CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
- .debug_macro   0x0002f565      0x24a CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_macro   0x0002f7af      0x28c CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_macro   0x0002fa3b      0x25c CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
- .debug_macro   0x0002fc97      0x280 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
- .debug_macro   0x0002ff17      0x280 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_macro   0x00030197      0x262 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
- .debug_macro   0x000303f9      0x275 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
- .debug_macro   0x0003066e      0x256 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
- .debug_macro   0x000308c4      0x251 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_macro   0x0002e877      0x284 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
+ .debug_macro   0x0002eafb      0x284 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
+ .debug_macro   0x0002ed7f      0x284 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_macro   0x0002f003      0x27a CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_macro   0x0002f27d      0x277 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
+ .debug_macro   0x0002f4f4       0x1c CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
+ .debug_macro   0x0002f510      0x24a CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_macro   0x0002f75a      0x28c CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_macro   0x0002f9e6      0x25c CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
+ .debug_macro   0x0002fc42      0x280 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
+ .debug_macro   0x0002fec2      0x280 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_macro   0x00030142      0x262 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
+ .debug_macro   0x000303a4      0x275 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
+ .debug_macro   0x00030619      0x256 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
+ .debug_macro   0x0003086f      0x251 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
 
 .debug_line     0x00000000    0x11b86
  .debug_line    0x00000000      0xa61 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
