@@ -324,7 +324,7 @@ Discarded input sections
  .data          0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
  .bss           0x00000000        0x0 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
  .text.superloop
-                0x00000000       0x1c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
+                0x00000000        0xe CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
@@ -4593,67 +4593,67 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a
 LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a
 
-.debug_frame    0x00000000     0x2b38
+.debug_frame    0x00000000     0x2b3c
  .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
  .debug_frame   0x00000020       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
- .debug_frame   0x0000004c       0x4c CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
- .debug_frame   0x00000098       0x6c CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
- .debug_frame   0x00000104       0x34 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
- .debug_frame   0x00000138       0x78 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
- .debug_frame   0x000001b0      0x120 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_frame   0x000002d0       0x30 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_frame   0x00000300      0x21c CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
- .debug_frame   0x0000051c      0x560 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_frame   0x00000a7c      0x268 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_frame   0x00000ce4      0x470 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
- .debug_frame   0x00001154      0x1ec CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
- .debug_frame   0x00001340      0x828 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_frame   0x00001b68      0x1c4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
- .debug_frame   0x00001d2c      0xa84 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
- .debug_frame   0x000027b0      0x2c4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
- .debug_frame   0x00002a74       0x60 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
- .debug_frame   0x00002ad4       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x00002b00       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000004c       0x50 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
+ .debug_frame   0x0000009c       0x6c CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000108       0x34 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x0000013c       0x78 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
+ .debug_frame   0x000001b4      0x120 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_frame   0x000002d4       0x30 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_frame   0x00000304      0x21c CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
+ .debug_frame   0x00000520      0x560 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_frame   0x00000a80      0x268 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_frame   0x00000ce8      0x470 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00001158      0x1ec CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
+ .debug_frame   0x00001344      0x828 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_frame   0x00001b6c      0x1c4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
+ .debug_frame   0x00001d30      0xa84 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
+ .debug_frame   0x000027b4      0x2c4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
+ .debug_frame   0x00002a78       0x60 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_frame   0x00002ad8       0x2c C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00002b04       0x38 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
 
-.debug_info     0x00000000     0xfa06
- .debug_info    0x00000000      0x1d4 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
- .debug_info    0x000001d4     0x127d CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
- .debug_info    0x00001451      0x618 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
- .debug_info    0x00001a69     0x12ec CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
- .debug_info    0x00002d55      0x170 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_info    0x00002ec5       0x9f CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_info    0x00002f64      0xfa9 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
- .debug_info    0x00003f0d     0x1658 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_info    0x00005565     0x109f CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_info    0x00006604     0x12d7 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
- .debug_info    0x000078db      0x6b6 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
- .debug_info    0x00007f91     0x139f CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_info    0x00009330      0x7ca CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
- .debug_info    0x00009afa     0x4030 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
- .debug_info    0x0000db2a     0x10ed CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
- .debug_info    0x0000ec17      0xd8e CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
- .debug_info    0x0000f9a5       0x30 CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
- .debug_info    0x0000f9d5       0x31 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+.debug_info     0x00000000     0xf8df
+ .debug_info    0x00000000       0xad CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
+ .debug_info    0x000000ad     0x127d CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
+ .debug_info    0x0000132a      0x618 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00001942     0x12ec CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
+ .debug_info    0x00002c2e      0x170 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_info    0x00002d9e       0x9f CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_info    0x00002e3d      0xfa9 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
+ .debug_info    0x00003de6     0x1658 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_info    0x0000543e     0x109f CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_info    0x000064dd     0x12d7 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
+ .debug_info    0x000077b4      0x6b6 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
+ .debug_info    0x00007e6a     0x139f CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_info    0x00009209      0x7ca CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
+ .debug_info    0x000099d3     0x4030 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
+ .debug_info    0x0000da03     0x10ed CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
+ .debug_info    0x0000eaf0      0xd8e CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_info    0x0000f87e       0x30 CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
+ .debug_info    0x0000f8ae       0x31 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
 
-.debug_abbrev   0x00000000     0x203f
- .debug_abbrev  0x00000000       0xef CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
- .debug_abbrev  0x000000ef      0x267 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
- .debug_abbrev  0x00000356      0x15b CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x000004b1      0x23e CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
- .debug_abbrev  0x000006ef       0xbc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_abbrev  0x000007ab       0x45 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_abbrev  0x000007f0      0x2c4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
- .debug_abbrev  0x00000ab4      0x311 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_abbrev  0x00000dc5      0x290 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_abbrev  0x00001055      0x269 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
- .debug_abbrev  0x000012be      0x1db CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
- .debug_abbrev  0x00001499      0x2af CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_abbrev  0x00001748      0x198 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
- .debug_abbrev  0x000018e0      0x305 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
- .debug_abbrev  0x00001be5      0x2d4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
- .debug_abbrev  0x00001eb9      0x13a CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
- .debug_abbrev  0x00001ff3       0x24 CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
- .debug_abbrev  0x00002017       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+.debug_abbrev   0x00000000     0x1f97
+ .debug_abbrev  0x00000000       0x47 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
+ .debug_abbrev  0x00000047      0x267 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x000002ae      0x15b CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000409      0x23e CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00000647       0xbc CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_abbrev  0x00000703       0x45 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_abbrev  0x00000748      0x2c4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
+ .debug_abbrev  0x00000a0c      0x311 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000d1d      0x290 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_abbrev  0x00000fad      0x269 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00001216      0x1db CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
+ .debug_abbrev  0x000013f1      0x2af CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_abbrev  0x000016a0      0x198 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
+ .debug_abbrev  0x00001838      0x305 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
+ .debug_abbrev  0x00001b3d      0x2d4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
+ .debug_abbrev  0x00001e11      0x13a CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_abbrev  0x00001f4b       0x24 CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
+ .debug_abbrev  0x00001f6f       0x28 C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
 
 .debug_aranges  0x00000000      0xaf0
  .debug_aranges
@@ -4805,40 +4805,40 @@ LOAD C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .debug_macro   0x0003066e      0x256 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
  .debug_macro   0x000308c4      0x251 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
 
-.debug_line     0x00000000    0x11b8c
- .debug_line    0x00000000      0xa67 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
- .debug_line    0x00000a67      0xb59 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
- .debug_line    0x000015c0      0xa5b CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
- .debug_line    0x0000201b      0xa78 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
- .debug_line    0x00002a93      0xab2 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
- .debug_line    0x00003545      0x9d3 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
- .debug_line    0x00003f18      0xbae CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
- .debug_line    0x00004ac6      0xf58 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
- .debug_line    0x00005a1e     0x1363 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
- .debug_line    0x00006d81     0x2eb4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
- .debug_line    0x00009c35      0xce4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
- .debug_line    0x0000a919      0xff0 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
- .debug_line    0x0000b909      0xd2f CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
- .debug_line    0x0000c638     0x3ae3 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
- .debug_line    0x0001011b      0xf3e CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
- .debug_line    0x00011059      0xa69 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
- .debug_line    0x00011ac2       0x7b CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
- .debug_line    0x00011b3d       0x4f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+.debug_line     0x00000000    0x11b86
+ .debug_line    0x00000000      0xa61 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
+ .debug_line    0x00000a61      0xb59 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
+ .debug_line    0x000015ba      0xa5b CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00002015      0xa78 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
+ .debug_line    0x00002a8d      0xab2 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_line    0x0000353f      0x9d3 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_line    0x00003f12      0xbae CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
+ .debug_line    0x00004ac0      0xf58 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
+ .debug_line    0x00005a18     0x1363 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc.c.obj
+ .debug_line    0x00006d7b     0x2eb4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_rcc_ex.c.obj
+ .debug_line    0x00009c2f      0xce4 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_gpio.c.obj
+ .debug_line    0x0000a913      0xff0 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal.c.obj
+ .debug_line    0x0000b903      0xd2f CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_exti.c.obj
+ .debug_line    0x0000c632     0x3ae3 CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart.c.obj
+ .debug_line    0x00010115      0xf3e CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_uart_ex.c.obj
+ .debug_line    0x00011053      0xa69 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/system_stm32h5xx.c.obj
+ .debug_line    0x00011abc       0x7b CMakeFiles/Testing_STM32H563ZIT6.dir/startup_stm32h563xx.s.obj
+ .debug_line    0x00011b37       0x4f C:/ST/STM32CubeCLT_1.17.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
 
 .debug_str      0x00000000   0x130b89
- .debug_str     0x00000000   0x12babf CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
-                             0x12bdb8 (size before relaxing)
- .debug_str     0x0012babf      0xd13 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
+ .debug_str     0x00000000   0x12ba51 CMakeFiles/Testing_STM32H563ZIT6.dir/User/Src/superloop.c.obj
+                             0x12bd33 (size before relaxing)
+ .debug_str     0x0012ba51      0xd3b CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/main.c.obj
                              0x12ca88 (size before relaxing)
- .debug_str     0x0012c7d2      0x285 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
+ .debug_str     0x0012c78c      0x2b8 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/gpio.c.obj
                              0x12c01c (size before relaxing)
- .debug_str     0x0012ca57      0x5b3 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
+ .debug_str     0x0012ca44      0x5b3 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/usart.c.obj
                              0x12cbc3 (size before relaxing)
- .debug_str     0x0012d00a      0x158 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
+ .debug_str     0x0012cff7      0x158 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_it.c.obj
                              0x12be15 (size before relaxing)
- .debug_str     0x0012d162       0x97 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
+ .debug_str     0x0012d14f       0x97 CMakeFiles/Testing_STM32H563ZIT6.dir/Core/Src/stm32h5xx_hal_msp.c.obj
                              0x12bd2e (size before relaxing)
- .debug_str     0x0012d1f9      0xa5b CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
+ .debug_str     0x0012d1e6      0xa6e CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/BSP/STM32H5xx_Nucleo/stm32h5xx_nucleo.c.obj
                              0x12c5d6 (size before relaxing)
  .debug_str     0x0012dc54      0x5ae CMakeFiles/Testing_STM32H563ZIT6.dir/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_cortex.c.obj
                              0x12c19f (size before relaxing)
